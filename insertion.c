@@ -1,3 +1,5 @@
+//Programa que ordena un conjunto dado mediante el método de inserción (insertion sort)//
+
 #include<stdio.h>
 #include<math.h>
 
