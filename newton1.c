@@ -1,3 +1,4 @@
+//Programa que encuentra las raíces de una función mediante el método de Newton//
 #include<stdio.h>
 #include<math.h>
 
