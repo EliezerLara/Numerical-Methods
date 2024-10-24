@@ -1,3 +1,4 @@
+//Programa que encuentra las ráices de una función mediante el método de corrección Pegasus//
 #include<stdio.h>
 #include<math.h>
 
